@@ -353,7 +353,7 @@
                 "textTitle": "DIAPOSITIVA DE VIDEO",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "La probabilidad de morir por causas maternas es dos veces mayor para las mujeres del área rural en comparación con las mujeres&nbsp; del área urbana. Esto se debe al limitado acceso y la calidad de los servicios de salud en el área rural.",
+                "text": "La probabilidad de morir por causas maternas es dos veces mayor para las mujeres que viven en una área rural por el limitado acceso que se tiene a los diferentes servicios de salud.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
                 "overlayOpacity": "0.3"
               },
@@ -373,7 +373,7 @@
                 "textTitle": "¿Sabias que",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "A pesar de que la gestación es un evento muy importante en la vida de la mujer, también es considerado uno de los acontecimientos más riesgosos si es que las acciones sociales y de salud durante la gestación, el parto y el puerperio, no son las apropiadas para la mujer. Es por esto que la salud de las gestantes y de sus hijos es considerado un indicador de desarrollo de un país.",
+                "text": "La gestación es considerado uno de los acontecimientos más riesgosos si no se lleva un debido control de la madre y el feto durante todo el proceso.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
                 "overlayOpacity": "0.3",
                 "overlayColor": "#232323"
